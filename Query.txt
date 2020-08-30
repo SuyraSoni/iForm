@@ -1,0 +1,1 @@
+ALTER TABLE tb_threads ADD FULLTEXT(`t_title`,`t_desc`);
